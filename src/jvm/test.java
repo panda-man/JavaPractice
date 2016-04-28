@@ -1,4 +1,4 @@
-package Jvm;
+package jvm;
 
 public class test {
 
