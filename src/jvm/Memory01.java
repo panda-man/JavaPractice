@@ -1,5 +1,4 @@
 package jvm;
-import java.lang.*;
 public class Memory01 {
 
 	public static void main(String[] args) {
