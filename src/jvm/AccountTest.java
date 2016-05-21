@@ -18,10 +18,10 @@ public class AccountTest {
 		System.out.println("テスト成功です。");
 		System.out.println("オーナーは" + a.owner);
 		System.out.println("残高は" + a.balance);
-		
+
 	}
 
 	private static void testInstance() {
-		
+
 	}
 }
