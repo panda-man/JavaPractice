@@ -2,7 +2,6 @@ package jvm;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.util.Iterator;
 
 public class ByteOutput {
 	public static void main(String[] args) throws IOException {
